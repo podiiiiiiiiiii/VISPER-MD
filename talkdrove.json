@@ -8,7 +8,7 @@
   
     "env": {
       "SESSION_ID": {
-        "description": "Put your SESSION_ID here",
+        "description": "MOVIE-VISPER=ioBjTTjb#_QDZshxdPGXKYi3L3TMR1xXrPjtpxErqpiDr0lZcwg8",
         "value":"",
         "required": true
         
